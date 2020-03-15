@@ -9,7 +9,6 @@ const CardList = ({robots}) => {
     });
 
     return (
-
         CardComponent
     )
 }
